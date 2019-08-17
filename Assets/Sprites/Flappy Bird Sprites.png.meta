@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 671df926ace129c4a80f6afb33af4283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7516744901734361701
+    second: Brown pipe
+  - first:
+      213: -6462266267701824242
+    second: Green pipe
+  - first:
+      213: 4614167499751008981
+    second: Blue Bird Down
+  - first:
+      213: -5074606627735956805
+    second: Red Bird Down
+  - first:
+      213: 863651270154500889
+    second: Green Bird Down
+  - first:
+      213: -2371908681878548725
+    second: Instructions
+  - first:
+      213: -2502972425147416365
+    second: Blue Bird Idle
+  - first:
+      213: -1440596442258760519
+    second: Red Bird Idle
+  - first:
+      213: 2242321769881114607
+    second: Green Bird Idle
+  - first:
+      213: -8192273073136306436
+    second: Blue Bird Up
+  - first:
+      213: 6939823027963663316
+    second: Red Bird Up
+  - first:
+      213: -7993812739410613472
+    second: Green Bird Up
+  - first:
+      213: -7257300506590164176
+    second: Flappy Bird Sprites_17
+  - first:
+      213: 4381356264844738291
+    second: Flappy Bird Sprites_18
+  - first:
+      213: 7635923815991537284
+    second: Blue Bird Dead
+  - first:
+      213: 8585502603531836826
+    second: Red Bird Dead
+  - first:
+      213: 786028029532341764
+    second: Green Bird Dead
+  - first:
+      213: -1922417273455563661
+    second: Panel
+  - first:
+      213: -6195564666047414594
+    second: Empty Button
+  - first:
+      213: -8666269069921296806
+    second: Connect on google play button
+  - first:
+      213: 4637989039281592368
+    second: Bronze Medal
+  - first:
+      213: -2508095173715484255
+    second: Gold Medal
+  - first:
+      213: -410817280976230421
+    second: Silver Medal
+  - first:
+      213: -3501187569540670499
+    second: Pause Button
+  - first:
+      213: -7737555877073086051
+    second: Play Button
+  - first:
+      213: 7665679511463452981
+    second: Flappy Bird Sprites_31
+  - first:
+      213: -6067851611459294901
+    second: Orange Empty Panel
+  - first:
+      213: -6552382079645713034
+    second: Play button
+  - first:
+      213: -5648203406981249835
+    second: Leaderboard Button
+  - first:
+      213: -4735499609877141600
+    second: Connect on twitter button
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown pipe
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 462
+        width: 88
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbde502065b464aaaa29683daafc50
+      internalID: 7516744901734361701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green pipe
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 462
+        width: 89
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700514711133f13499227717bd775754
+      internalID: -6462266267701824242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bird Down
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1005
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2299b138c1c447906020b23005eec
+      internalID: 4614167499751008981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bird Down
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1005
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25beb26da6a7ebf44950811deb62d78f
+      internalID: -5074606627735956805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bird Down
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1006
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a1b533a828604c81fa43c0adfa99b
+      internalID: 863651270154500889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instructions
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 841
+        width: 319
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a4997cc86fdd4aad9bbaf56c6a603
+      internalID: -2371908681878548725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bird Idle
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 926
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25f0d876d3bbc47a8b3601b78aff41
+      internalID: -2502972425147416365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bird Idle
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 926
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b1e598f77d7a429d96108d5ac5a2b
+      internalID: -1440596442258760519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bird Idle
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 928
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4862a927c5bd6e24b9615646c5584af0
+      internalID: 2242321769881114607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bird Up
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 844
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51a6d1a759d114fa5e74e1c1df2192
+      internalID: -8192273073136306436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bird Up
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 844
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102e815d5f3f5d4c9dc41a9a50e814d
+      internalID: 6939823027963663316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bird Up
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 847
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c4bf6077bea24d957e4c510f8a3ea
+      internalID: -7993812739410613472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 892
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5edf5660a47f84ba957920a68224a0
+      internalID: -7257300506590164176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 896
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c8e6c8b49c9434fa34ec61cfc785bf
+      internalID: 4381356264844738291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Bird Dead
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 760
+        width: 103
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe4dd25a5912348ad6c57b58b774f2
+      internalID: 7635923815991537284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Bird Dead
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 760
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef39f91d89ca946bf23dd520c2e2a7
+      internalID: 8585502603531836826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bird Dead
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 762
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3c3f5bbb6bf143addfdfe904098f9
+      internalID: 786028029532341764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 571
+        width: 495
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024e0cf36767bb4baed4939b694dd63
+      internalID: -1922417273455563661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty Button
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 598
+        width: 166
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181431dab282e584bbec5dd9bb678d9e
+      internalID: -6195564666047414594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connect on google play button
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 598
+        width: 164
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb6022df547174488cfd212af2004b8
+      internalID: -8666269069921296806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bronze Medal
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 463
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f9f9b8d861a240b48325548cc1909
+      internalID: 4637989039281592368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Medal
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 463
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe9d028e58cd14599d74d284e65377
+      internalID: -2508095173715484255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Medal
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 462
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2f78575276ea448e299324cce7cc1
+      internalID: -410817280976230421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Button
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 472
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83adb19eaa498b04587f49093346a710
+      internalID: -3501187569540670499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Button
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 477
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deae13ee38d1784d814b74e5477a980
+      internalID: -7737555877073086051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 214
+        width: 719
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa2c93679e55b47b5ce6a660520d90
+      internalID: 7665679511463452981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Empty Panel
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 130
+        width: 206
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de54c19e683e74cbec844f93b62832
+      internalID: -6067851611459294901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play button
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 47
+        width: 252
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693160c60dff5c429b5d8c291dec9aa
+      internalID: -6552382079645713034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaderboard Button
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 45
+        width: 257
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a7a15560d535a48b2ca5e7752dfd81
+      internalID: -5648203406981249835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Connect on twitter button
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a6f23256092443a3e75f58726e751
+      internalID: -4735499609877141600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 37cb4ff29c4c11940a9dd404c456b187
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
